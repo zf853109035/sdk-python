@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce836c0c-f92f-490b-9900-3735f4041161" name="超算P100" url="http://218.77.58.8">
+        <fileTransfer host="218.77.58.8" port="9527" rootFolder="/home/beer/zf" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9527" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
